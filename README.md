@@ -1,2 +1,1 @@
-# 00a
-00a
+changed var to let and const
